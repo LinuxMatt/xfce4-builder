@@ -21,3 +21,6 @@ Ubuntu:
  
 Fedora:
 - Fedora 10 not supported
+
+OpenSuse:
+- OpenSuse 11.4 not supported (libtool version 2.2 < 2.4)
